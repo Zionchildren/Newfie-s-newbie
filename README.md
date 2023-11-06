@@ -1,5 +1,5 @@
 # Newfie to newbie
-# Helping newcomers' to Newfoundland and Labrador transition to become newfies #
+# Helping newcomers' to Newfoundland and Labrador transition to become newfies
 
 Newcomers Website ReadMe
 
